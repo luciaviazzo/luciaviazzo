@@ -2,19 +2,19 @@
 
 ### About Me
 
-I am a Software Development student with a **strong focus on backend development** and **logical problem-solving**.
+I'm a Software Development student with a **strong focus on backend development** and **logical problem-solving**.
 I enjoy working with application logic, data structures, and backend systems, prioritizing clarity, correctness, and maintainability. 
 
-I am currently looking for my **first professional experience in IT**, where I can grow as a developer and contribute with responsibility and commitment.
+I'm currently looking for my **first professional experience in IT**, where I can grow as a developer and contribute with responsibility and commitment.
 
 ---
 
 ### 🛠 Technologies and Tools
 
-**Programming languages:** Java - JavaScript
-**Frameworks & Libraries:** React - Node.js - Spring
-**Databases:** SQL - MongoDB - Redis
-**Tools:** Git - GitHub
+- **Programming languages:** Java - JavaScript
+- **Frameworks & Libraries:** React - Node.js - Spring
+- **Databases:** SQL - MongoDB - Redis0
+- **Tools:** Git - GitHub
 
 ---
 
