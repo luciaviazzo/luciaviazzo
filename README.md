@@ -1,4 +1,4 @@
-## Hi there! I'm Lucía Viazzo
+# Hi there! I'm Lucía Viazzo
 
 ## About Me
 
