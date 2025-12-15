@@ -27,4 +27,4 @@ Here are some projects I've worked on:
 ## Contact Me
 I’m always open to learning opportunities, collaborations and new challenges. 
 
-Feel free to reach out to me through [LinkedIn](https://github.com/www.linkedin.com/in/lucia-viazzo)
+Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/lucia-viazzo)
