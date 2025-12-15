@@ -4,6 +4,7 @@
 
 I'm a Software Development student with a **strong focus on backend development** and **logical problem-solving**.
 I enjoy working with application logic, data structures, and backend systems, prioritizing clarity, correctness, and maintainability. 
+
 I'm currently looking for my **first professional experience in IT**, where I can grow as a developer and contribute with responsibility and commitment.
 
 
@@ -25,5 +26,5 @@ Here are some projects I've worked on:
 
 ## Contact Me
 I’m always open to learning opportunities, collaborations and new challenges. 
-Feel free to reach out to me through [LinkedIn]([www.linkedin.com/in/lucia-viazzo](https://github.com/www.linkedin.com/in/lucia-viazzo
-)
+
+Feel free to reach out to me through [LinkedIn](https://github.com/www.linkedin.com/in/lucia-viazzo)
