@@ -37,15 +37,15 @@ Currently seeking my **first professional IT role** — ready to contribute with
 
 ## Projects
 
-**LinkedUNQ**
+- **LinkedUNQ** - 
 Platform for sharing job and internship opportunities for Computer Science students at UNQ.
 [View demo →](https://linked-unq.vercel.app/)
 
-**ConcuConvolution**
+- **ConcuConvolution** -
 Image processing application using convolution filters implemented with concurrency and parallelism.
 [View repo →](https://github.com/luciaviazzo/ConcuConvolution)
 
-**BugBuster's Academic Project**
+- **BugBuster's Academic Project** -
 Distributed persistence backend application focused on data consistency and system logic.
 [View repo →](https://github.com/luciaviazzo/Bug-Busters-Academic-Project)
 
