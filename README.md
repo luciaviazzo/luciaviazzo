@@ -37,16 +37,25 @@ Currently seeking my **first professional IT role** — ready to contribute with
 
 ## Projects
 
-| Project | Description | Scope |
-|---|---|---|
-| **LinkedUNQ** | Platform for sharing job & internship opportunities for CS students at UNQ | Fullstack |
-| **Impulsa Tech** | Tech job board connecting talent with opportunities | Frontend |
-| **BugBuster's Project** | Distributed persistence backend focused on data consistency & system logic | Backend |
+**LinkedUNQ**
+Platform for sharing job and internship opportunities for Computer Science students at UNQ.
+[View demo →](https://linked-unq.vercel.app/)
+
+**ConcuConvolution**
+Image processing application using convolution filters implemented with concurrency and parallelism.
+[View repo →](https://github.com/luciaviazzo/ConcuConvolution)
+
+**BugBuster's Academic Project**
+Distributed persistence backend application focused on data consistency and system logic.
+[View repo →](https://github.com/luciaviazzo/Bug-Busters-Academic-Project)
 
 ---
 
 ## Let's Connect
 
 I'm always open to learning opportunities, collaborations, and new challenges.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucia-viazzo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lucia-viazzo.vercel.app/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucia-viazzo)
