@@ -56,5 +56,4 @@ Distributed persistence backend application focused on data consistency and syst
 I'm always open to learning opportunities, collaborations, and new challenges.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucia-viazzo)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lucia-viazzo.vercel.app/)
 
