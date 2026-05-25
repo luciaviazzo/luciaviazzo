@@ -1,58 +1,72 @@
-# Hi there! I'm Lucía Viazzo 👋
-
-> Software Development student · Backend focus · UNQ · Buenos Aires, Argentina
+# Lucía Viazzo
+**Backend Developer · Full Stack · Buenos Aires, Argentina**
 
 ---
 
-## About Me
+## About
 
-🎯 I'm a Software Development student with a strong focus on **backend systems** and **logical problem-solving**.
-I care about application logic, data structures, and writing code that is clear, correct, and maintainable.
+Computer Science student at Universidad Nacional de Quilmes (UNQ), completing a Programming Technician degree while pursuing a Bachelor's in Computer Science.
 
-Currently seeking my **first professional IT role** — ready to contribute with responsibility and commitment.
+Focused on backend development, with hands-on experience in REST API design, domain modeling, multi-strategy data persistence, and automated testing. Interested in software architecture and the application of AI in real-world products.
+
+Currently looking for a **first professional opportunity** in the industry to grow, contribute, and build meaningful software.
 
 ---
 
 ## Tech Stack
 
-**Languages:**
+**Backend:**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Frameworks & Libraries:**
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 
 **Databases:**
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
+
+**Frontend:**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 **Tools:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
 ---
 
-## Projects
+## Selected Projects
 
-- **LinkedUNQ** - 
-Platform for sharing job and internship opportunities for Computer Science students at UNQ.
-[View demo →](https://linked-unq.vercel.app/)
+**[LinkedUNQ](https://linked-unq.vercel.app/)**
+Full stack platform connecting UNQ Computer Science students with job opportunities and internships. Developed collaboratively under Agile/SCRUM methodology. Implements role-based authentication (student, recruiter, admin), job listings, candidate profiles, and application management.
+`NestJS · TypeScript · React · Vite · Tailwind CSS · PostgreSQL · Prisma · Jest`
 
-- **ConcuConvolution** -
-Image processing application using convolution filters implemented with concurrency and parallelism.
-[View repo →](https://github.com/luciaviazzo/ConcuConvolution)
+**[Bug Busters](https://github.com/luciaviazzo/Bug-Busters-Academic-Project)**
+Java backend with multilayer architecture and REST API, built around a complex domain model. Integrates four persistence strategies (relational, document, graph, and cache) alongside automated testing, design patterns, and SOLID/Clean Code principles.
+`Java · Spring Boot · Hibernate · JDBC · SQL · MongoDB · Neo4j · Redis · JUnit`
 
-- **BugBuster's Academic Project** -
-Distributed persistence backend application focused on data consistency and system logic.
-[View repo →](https://github.com/luciaviazzo/Bug-Busters-Academic-Project)
+**[ConcuConvolution](https://github.com/luciaviazzo/ConcuConvolution)**
+Image processing system comparing sequential and concurrent execution via convolution filters. Features a custom thread pool, thread-safe circular buffer, dynamic configuration, and automated benchmarking analyzed through Python data visualization scripts.
+`Java · Python · Pandas · Matplotlib`
+
+**Traits in Ruby** *(in progress)*
+Ruby language extension using metaprogramming to implement the Traits design pattern, exploring runtime behavior composition and alternative code reuse mechanisms.
+`Ruby · TDD · UML`
 
 ---
 
-## Let's Connect
+## Contact
 
-I'm always open to learning opportunities, collaborations, and new challenges.
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://lucia-viazzo.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucia-viazzo)
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:viazzo94@gmail.com)
