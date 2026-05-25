@@ -1,13 +1,13 @@
-# Lucía Viazzo
-**Backend Developer · Full Stack · Buenos Aires, Argentina**
+# LUCÍA VIAZZO
+**Full Stack Developer · Backend · Data & AI· Buenos Aires, Argentina**
 
 ---
 
 ## About
 
-Computer Science student at Universidad Nacional de Quilmes (UNQ), completing a Programming Technician degree while pursuing a Bachelor's in Computer Science.
+Computer Science student at **Universidad Nacional de Quilmes (UNQ)**, completing a Programming Technician degree while pursuing a Bachelor's in Computer Science.
 
-Focused on backend development, with hands-on experience in REST API design, domain modeling, multi-strategy data persistence, and automated testing. Interested in software architecture and the application of AI in real-world products.
+Focused on backend development, with hands-on experience in REST API design, domain modeling, multi-strategy data persistence, and automated testing. Interested in software architecture and the application of **AI in real-world products**.
 
 Currently looking for a **first professional opportunity** in the industry to grow, contribute, and build meaningful software.
 
@@ -48,19 +48,19 @@ Currently looking for a **first professional opportunity** in the industry to gr
 ## Selected Projects
 
 **[LinkedUNQ](https://linked-unq.vercel.app/)**
-Full stack platform connecting UNQ Computer Science students with job opportunities and internships. Developed collaboratively under Agile/SCRUM methodology. Implements role-based authentication (student, recruiter, admin), job listings, candidate profiles, and application management.
+Full stack platform connecting UNQ students with job opportunities and internships. Role-based auth, job listings, candidate profiles, and application management. Built collaboratively under Agile/SCRUM.
 `NestJS · TypeScript · React · Vite · Tailwind CSS · PostgreSQL · Prisma · Jest`
 
 **[Bug Busters](https://github.com/luciaviazzo/Bug-Busters-Academic-Project)**
-Java backend with multilayer architecture and REST API, built around a complex domain model. Integrates four persistence strategies (relational, document, graph, and cache) alongside automated testing, design patterns, and SOLID/Clean Code principles.
+Java backend with multilayer architecture and REST API. Integrates four persistence strategies (relational, document, graph, cache) with automated testing, design patterns, and SOLID/Clean Code principles.
 `Java · Spring Boot · Hibernate · JDBC · SQL · MongoDB · Neo4j · Redis · JUnit`
 
 **[ConcuConvolution](https://github.com/luciaviazzo/ConcuConvolution)**
-Image processing system comparing sequential and concurrent execution via convolution filters. Features a custom thread pool, thread-safe circular buffer, dynamic configuration, and automated benchmarking analyzed through Python data visualization scripts.
+Image processing system comparing sequential vs. concurrent execution via convolution filters. Custom thread pool, thread-safe circular buffer, dynamic config, and automated benchmarking with Python visualizations.
 `Java · Python · Pandas · Matplotlib`
 
 **Traits in Ruby** *(in progress)*
-Ruby language extension using metaprogramming to implement the Traits design pattern, exploring runtime behavior composition and alternative code reuse mechanisms.
+Ruby language extension via metaprogramming to implement the Traits design pattern, exploring runtime behavior composition and alternative code reuse mechanisms.
 `Ruby · TDD · UML`
 
 ---
