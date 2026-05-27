@@ -50,7 +50,7 @@ Currently looking for a **first professional opportunity** in the industry to gr
 Full stack platform connecting UNQ students with job opportunities and internships. Role-based auth, job listings, candidate profiles, and application management. Built collaboratively under Agile/SCRUM.
 `NestJS · TypeScript · React · Vite · Tailwind CSS · PostgreSQL · Prisma · Jest`
 
-**[Bug Busters](https://github.com/luciaviazzo/Bug-Busters-Academic-Project)**
+**[Epersgeist](https://github.com/luciaviazzo/Bug-Busters-Academic-Project)**
 Java backend with multilayer architecture and REST API. Integrates four persistence strategies (relational, document, graph, cache) with automated testing, design patterns, and SOLID/Clean Code principles.
 `Java · Spring Boot · Hibernate · JDBC · SQL · MongoDB · Neo4j · Redis · JUnit`
 
