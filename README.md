@@ -1,5 +1,5 @@
 # LUCÍA VIAZZO
-**Full Stack Developer · Backend · Data & AI· Buenos Aires, Argentina**
+**Full Stack Developer · Backend · Data & AI · Buenos Aires, Argentina**
 
 ---
 
@@ -54,13 +54,18 @@ Full stack platform connecting UNQ students with job opportunities and internshi
 Java backend with multilayer architecture and REST API. Integrates four persistence strategies (relational, document, graph, cache) with automated testing, design patterns, and SOLID/Clean Code principles.
 `Java · Spring Boot · Hibernate · JDBC · SQL · MongoDB · Neo4j · Redis · JUnit`
 
-**[ConcuConvolution](https://github.com/luciaviazzo/ConcuConvolution)**
-Image processing system comparing sequential vs. concurrent execution via convolution filters. Custom thread pool, thread-safe circular buffer, dynamic config, and automated benchmarking with Python visualizations.
-`Java · Python · Pandas · Matplotlib`
+**[Sistema de Estacionamiento Medido](https://github.com/luciaviazzo/sem-backend)**
+Java backend for managing metered parking in a city. Features parking session management (manual and automatic modes), balance handling, movement detection via sensors, infraction generation, and subscriber notifications. Built in a team of 3, applying OOP and design patterns (Observer, Strategy, State).
+`Java · JUnit · Mockito`
 
 **Traits in Ruby** *(in progress)*
 Ruby language extension via metaprogramming to implement the Traits design pattern, exploring runtime behavior composition and alternative code reuse mechanisms.
 `Ruby · TDD · UML`
+
+**[ConcuConvolution](https://github.com/luciaviazzo/ConcuConvolution)**
+Image processing system comparing sequential vs. concurrent execution via convolution filters. Custom thread pool, thread-safe circular buffer, dynamic config, and automated benchmarking with Python visualizations.
+`Java · Python · Pandas · Matplotlib`
+
 
 ---
 
