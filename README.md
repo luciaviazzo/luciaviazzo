@@ -58,9 +58,9 @@ Java backend with multilayer architecture and REST API. Integrates four persiste
 Java backend for managing metered parking in a city. Features parking session management (manual and automatic modes), balance handling, movement detection via sensors, infraction generation, and subscriber notifications. Built in a team of 3, applying OOP and design patterns (Observer, Strategy, State).
 `Java · JUnit · Mockito`
 
-**Traits in Ruby** *(in progress)*
-Ruby language extension via metaprogramming to implement the Traits design pattern, exploring runtime behavior composition and alternative code reuse mechanisms.
-`Ruby · TDD · UML`
+**[Metaprogramming Traits Ruby](https://github.com/luciaviazzo/metaprogramming-traits-ruby)**
+Implementation of a Traits system in Ruby using metaprogramming techniques. Supports trait composition, required methods, conflict resolution strategies, aliases, introspection, trait reuse, and runtime modification. Developed as a team project, focusing on OOP, DSL design, and language extensibility.
+`Ruby · TDD · UML · RuboCop`
 
 **[ConcuConvolution](https://github.com/luciaviazzo/ConcuConvolution)**
 Image processing system comparing sequential vs. concurrent execution via convolution filters. Custom thread pool, thread-safe circular buffer, dynamic config, and automated benchmarking with Python visualizations.
