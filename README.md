@@ -1,76 +1,69 @@
-# LUCÍA VIAZZO
-**Full Stack Developer · Backend · Data & AI · Buenos Aires, Argentina**
+<h1 align="center">Lucía Belén Viazzo H.</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&center=true&vCenter=true&width=700&lines=Desarrolladora+Backend;Estudiante+de+Informática;Datos+e+Inteligencia+Artificial;Construyendo+software+de+calidad" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="TU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:TU_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## About
+## 👩‍💻 Sobre mí
 
-Computer Science student at **Universidad Nacional de Quilmes (UNQ)**, completing a Programming Technician degree while pursuing a Bachelor's in Computer Science.
+Estudiante de la Licenciatura en Informática en la Universidad Nacional de Quilmes (UNQ). Me enfoco en el desarrollo backend, diseñando APIs REST, modelando dominios y aplicando buenas prácticas de arquitectura y testing.
 
-Focused on backend development, with hands-on experience in REST API design, domain modeling, multi-strategy data persistence, and automated testing. Interested in software architecture and the application of **AI in real-world products**.
-
-Currently looking for a **first professional opportunity** in the industry to grow, contribute, and build meaningful software.
+Actualmente fortalezco mi formación en datos e inteligencia artificial, explorando su integración en productos de software a través de proyectos propios y académicos.
 
 ---
 
-## Tech Stack
+## 🛠️ Tecnologías
 
-**Backend:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+### Backend
 
-**Databases:**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-**Frontend:**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+### Frontend
 
-**Tools:**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### Bases de Datos
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### Herramientas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## Selected Projects
+## 📚 Actualmente aprendiendo
 
-**[LinkedUNQ](https://linked-unq.vercel.app/)**
-Full stack platform connecting UNQ students with job opportunities and internships. Role-based auth, job listings, candidate profiles, and application management. Built collaboratively under Agile/SCRUM.
-`NestJS · TypeScript · React · Vite · Tailwind CSS · PostgreSQL · Prisma · Jest`
-
-**[Epersgeist](https://github.com/luciaviazzo/Bug-Busters-Academic-Project)**
-Java backend with multilayer architecture and REST API. Integrates four persistence strategies (relational, document, graph, cache) with automated testing, design patterns, and SOLID/Clean Code principles.
-`Java · Spring Boot · Hibernate · JDBC · SQL · MongoDB · Neo4j · Redis · JUnit`
-
-**[Sistema de Estacionamiento Medido](https://github.com/luciaviazzo/sem-backend)**
-Java backend for managing metered parking in a city. Features parking session management (manual and automatic modes), balance handling, movement detection via sensors, infraction generation, and subscriber notifications. Built in a team of 3, applying OOP and design patterns (Observer, Strategy, State).
-`Java · JUnit · Mockito`
-
-**[Metaprogramming Traits Ruby](https://github.com/luciaviazzo/metaprogramming-traits-ruby)**
-Implementation of a Traits system in Ruby using metaprogramming techniques. Supports trait composition, required methods, conflict resolution strategies, aliases, introspection, trait reuse, and runtime modification. Developed as a team project, focusing on OOP, DSL design, and language extensibility.
-`Ruby · TDD · UML · RuboCop`
-
-**[ConcuConvolution](https://github.com/luciaviazzo/ConcuConvolution)**
-Image processing system comparing sequential vs. concurrent execution via convolution filters. Custom thread pool, thread-safe circular buffer, dynamic config, and automated benchmarking with Python visualizations.
-`Java · Python · Pandas · Matplotlib`
-
+- Ingeniería de Software
+- Arquitectura de Software
+- Datos e Inteligencia Artificial
+- Patrones de Diseño
+- Testing y Calidad de Software
 
 ---
 
-## Contact
+## 📊 Estadísticas de GitHub
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://lucia-viazzo.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucia-viazzo)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:viazzo94@gmail.com)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&locale=es" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&locale=es" />
+</p>
