@@ -5,6 +5,9 @@
 </p>
 
 <p align="center">
+  📍 Buenos Aires, Argentina &nbsp;
+</p>
+<p align="center">
   <a href="https://www.linkedin.com/in/lucia-viazzo/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -20,9 +23,9 @@
 
 ## 👩‍💻 Sobre mí
 
-Estudiante de la Licenciatura en Informática en la Universidad Nacional de Quilmes (UNQ). Me enfoco en el desarrollo backend, diseñando APIs REST, modelando dominios y aplicando buenas prácticas de arquitectura y testing.
+Estudiante de la Licenciatura en Informática en la Universidad Nacional de Quilmes (UNQ). Me interesa especialmente el desarrollo backend y disfruto diseñar APIs REST, modelar dominios y aplicar buenas prácticas de arquitectura y testing.
 
-Actualmente fortalezco mi formación en datos e inteligencia artificial, explorando cómo integrarlos al desarrollo de software a través de proyectos propios y académicos.
+Actualmente continúo mi formación en datos e inteligencia artificial, explorando cómo integrarlos al desarrollo de software mediante proyectos propios y académicos.
 
 ---
 
@@ -31,6 +34,7 @@ Actualmente fortalezco mi formación en datos e inteligencia artificial, explora
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -49,9 +53,8 @@ Actualmente fortalezco mi formación en datos e inteligencia artificial, explora
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 🌱 Actualmente aprendiendo
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luciaviazzo&show_icons=true&locale=es&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciaviazzo&layout=compact&locale=es&theme=tokyonight" />
-</p>
+- Ciencia de Datos
+- Inteligencia Artificial
+- Arquitectura de Software
