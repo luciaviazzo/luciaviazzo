@@ -23,7 +23,9 @@
 
 ## 👩‍💻 Sobre mí
 
-Estudiante de la Licenciatura en Informática en la Universidad Nacional de Quilmes (UNQ). Me interesa especialmente el desarrollo backend y disfruto diseñar APIs REST, modelar dominios y aplicar buenas prácticas de arquitectura y testing.
+Estudiante de la Licenciatura en Informática en la Universidad Nacional de Quilmes (UNQ). 
+
+Me enfoco en el desarrollo backend, con especial interés en diseñar APIs REST, modelar dominios y aplicar buenas prácticas de arquitectura y testing.
 
 Actualmente continúo mi formación en datos e inteligencia artificial, explorando cómo integrarlos al desarrollo de software mediante proyectos propios y académicos.
 
