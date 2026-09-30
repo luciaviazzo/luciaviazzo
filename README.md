@@ -54,6 +54,6 @@ Actualmente curso la Licenciatura en Informática en la Universidad Nacional de 
 
 ## 🌱 Actualmente aprendiendo
 
-- Ciencia de Datos
+- Desarrollo de Software
 - Inteligencia Artificial
-- Arquitectura de Software
+- Ciencia de Datos
