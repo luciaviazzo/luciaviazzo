@@ -1,7 +1,7 @@
 <h1 align="center">Lucía Belén Viazzo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=700&color=A78BFA&lines=Desarrolladora+Full+Stack;Backend+|+Datos+e+IA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=700&color=FFB694&lines=Software+Developer;Backend+-+Data+-+IA" alt="Typing SVG" />
 </p>
 
 <p align="center">
